@@ -1,7 +1,7 @@
 {
     "name": "doorframework/ckeditor",
     "license": "MIT",
-    "type": "library",
+    "type": "door-module",
     "description": "Ckeditor for Door framework",
     "authors": [
 		{
