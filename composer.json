@@ -12,10 +12,5 @@
     "require": {
         "php" : ">5.4",
 		"ckeditor/ckeditor" : "*"
-    },
-    "autoload": {
-        "psr-0" : {
-            "Door\\CKEditor" : "classes"
-        }
     }
 }
