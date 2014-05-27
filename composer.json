@@ -1,0 +1,21 @@
+{
+    "name": "doorframework/ckeditor",
+    "license": "MIT",
+    "type": "library",
+    "description": "Ckeditor for Door framework",
+    "authors": [
+		{
+			"name": "Sergey Sachik",
+			"homepage": "http://serginho.ru/"
+		}
+    ],
+    "require": {
+        "php" : ">5.4",
+		"ckeditor/ckeditor" : "*"
+    },
+    "autoload": {
+        "psr-0" : {
+            "Door\\CKEditor" : "classes"
+        }
+    }
+}
